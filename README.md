@@ -28,9 +28,15 @@
  <tr><td>avg. </td><td>0.029 </td><td><strong>0.018 </strong> </td></tr>
 </tbody></table>
 
+## On MIT dataset
+![Image](mit.jpg)
+
 ## MIID dataset
 ### Objective evaluation
-![Image](miid.png)
+#### Old 12 groups
+![Image](MIID_old.jpg)
+#### New 10 groups
+![Image](miid.jpg)
 ### Subjective evaluation
 
 
