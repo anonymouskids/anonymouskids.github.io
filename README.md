@@ -26,7 +26,7 @@ In Fig. 2, our algorithm outperforms 8-best-band method by 38% on average. We th
 ## <span id="mit">Experiments (#R3)</span>
 
 ### <span id="mit">On MIT Intrinsic benchmark</span>
-![Image](https://farm5.staticflickr.com/4661/25054435737_e75143eff6_k.jpg)
+![Image](https://farm5.staticflickr.com/4664/39926442791_cd9d6e8964_k.jpg)
 > Fig. 3: comparison of visual results on MIT intrinsic benchmark (first row: reflectance; second row: shading), where GT denotes Ground Truth and CR denotes Color Retinex. Our shadings are more uniform and reflectances are more 'flat' visually.
 
 ![Image](https://farm5.staticflickr.com/4714/25049103807_9b4d41bcf9_h.jpg)
