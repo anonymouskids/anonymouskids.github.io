@@ -23,9 +23,8 @@ From the figure above, we can see that the biases between the reflectance image 
 
 ## <span id="mit">Experiments (#R3)</span>
 
-
 ### <span id="mit">On MIT Intrinsic benchmark</span>
-![Image](https://farm5.staticflickr.com/4714/26047185008_06ce9cf270_k.jpg)
+![Image](https://farm5.staticflickr.com/4661/25054435737_e75143eff6_k.jpg)
 > Fig. 3: Comparison of visual results on MIT intrinsic benchmark (first row: reflectance; second row: shading), where GT denotes Ground Truth and CR denotes Color Retinex. Our shadings are more uniform and reflectances are more 'flat' visually.
 
 ![Image](https://farm5.staticflickr.com/4714/25049103807_9b4d41bcf9_h.jpg)
@@ -49,7 +48,7 @@ Apart from 12 groups MIID dataset provided in the paper, we add 10 groups in ord
 In Fig. 6, we show LSME performance of our algorithm. This time our algorithm outperform SIID on each group of images, which validate the effectiveness of our algorithm.
 
 #### Subjective evaluation
-![img](https://farm5.staticflickr.com/4651/39214501674_088371962d_k.jpg)
+![img](https://farm5.staticflickr.com/4696/26053463288_399a38a241_k.jpg)
 > Fig. 7: some visual results of our algorithm on newly captured dataset. Captured by two different spectral imagers, colors of the images are slightly different from each other because of different white balance methods.
 
 SIID introduced super-pixel based method to handle MIID problem in order to reduce the complexity of multispectral information. Their results would cause the mosaic effect, in other words, the loss of details. In Fig. 7, we demonstrate that our algorithm can better maintain the detailed information. And our shadings tend to be uniform and reflectances are more 'flat'.
