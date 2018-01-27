@@ -48,7 +48,7 @@ Apart from 12 groups MIID dataset provided in the paper, we add 10 groups in ord
 In Fig. 6, we show LSME performance of our algorithm. This time our algorithm outperform SIID on each group of images, which validate the effectiveness of our algorithm.
 
 #### Subjective evaluation
-![img](https://farm5.staticflickr.com/4696/26053463288_399a38a241_k.jpg)
+![img](https://farm5.staticflickr.com/4616/39893565462_4554bc59df_k.jpg)
 > Fig. 7: some visual results of our algorithm on newly captured dataset. Captured by two different spectral imagers, colors of the images are slightly different from each other because of different white balance methods.
 
 SIID introduced super-pixel based method to handle MIID problem in order to reduce the complexity of multispectral information. Their results would cause the mosaic effect, in other words, the loss of details. In Fig. 7, we demonstrate that our algorithm can better maintain the detailed information. And our shadings tend to be uniform and reflectances are more 'flat'.
