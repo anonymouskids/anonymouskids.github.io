@@ -26,7 +26,7 @@
 </tbody></table>
 
 ## On MIT dataset
-![Image](https://farm5.staticflickr.com/4712/39019985175_6bed8702d6_k.jpg)
+![Image](https://farm5.staticflickr.com/4714/26047185008_06ce9cf270_k.jpg)
 
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>CR</th><th>Ours</th></tr></thead><tbody>
