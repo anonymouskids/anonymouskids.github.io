@@ -58,7 +58,9 @@ Noted that in the group 'cap' our results appear to be worse, but our algorithm 
 
 ### <span id="siid">On SIID dataset</span>
 ![Image](https://farm5.staticflickr.com/4611/28140381309_f9179756b9_b.jpg)
-> Fig. 8: the performance of our algorithm on SIID dataset. *SIID dataset and Error rate is proposed by Chen et al. _Intrinsic decomposition from a single spectral image._ Applied optics 56.20 (2017): 5676-5684.
+> Fig. 8: the performance of our algorithm on SIID dataset. 
+
+> *SIID dataset and Error rate is proposed by Chen et al. _Intrinsic decomposition from a single spectral image._ Applied optics 56.20 (2017): 5676-5684.
 
 Also, we do another experiment on SIID dataset. Using the error evaluation term defined in Chen et al.'s paper, we achieve better results quantitatively.
 
