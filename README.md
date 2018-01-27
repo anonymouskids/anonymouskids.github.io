@@ -1,4 +1,4 @@
-# Rebuttal material: Multispectral Image Intrinsic Decomposition via Low Rank Constraint
+# Rebuttal Material: Multispectral Image Intrinsic Decomposition via Low Rank Constraint
 
 [Inital Estimation (#R1)](#init)
 
