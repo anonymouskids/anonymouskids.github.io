@@ -66,5 +66,3 @@ Also, we do another experiment on SIID dataset. Using the error evaluation term 
 
 ## <span id='contri'>Contributions (#R3)</span>
 In sum, our LRIID algorithm outperforms state-of-the-art algorithms on various kinds of databases. And MIID dataset we provide with the ground truth would play an important role in following MIID research.
-
-<!--### Subjective evaluation>
