@@ -3,7 +3,7 @@
 
 ## Data distribution
 
-![Image](https://flic.kr/p/FFzbXC)
+![Image](https://farm5.staticflickr.com/4721/26045732858_1133701b2c_b.jpg)
 
 ## PCA vs. 'Best' 8 bands
 ![Image](bestbanddata.jpg)
