@@ -4,12 +4,12 @@
 ## Data distribution
 
 <table><tr>
-<td><img src=mit_refl_distri.png border=0></td>
-<td><img src=refl_distribution.png border=0></td>
+<td><img src=mit_refl_distri.jpg border=0></td>
+<td><img src=refl_distribution.jpg border=0></td>
 </tr></table>
 
 ## PCA vs. 'Best' 8 bands
-![Image](bestbanddata.png)
+![Image](bestbanddata.jpg)
 
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>8 best bands</th><th>PCA</th></tr></thead><tbody>
@@ -43,5 +43,5 @@
 ## Performance on SIID dataset.
 ### Objective evaluation
 Using the error defined by errS and errR
-![Image](siid.png)
+![Image](siid.jpg)
 ### Subjective evaluation
