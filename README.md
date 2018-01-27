@@ -3,10 +3,7 @@
 
 ## Data distribution
 
-<table><tr>
-<td><img src=mit_refl_distri.jpg border=0></td>
-<td><img src=refl_distribution.jpg border=0></td>
-</tr></table>
+![Image](https://flic.kr/p/FFzbXC)
 
 ## PCA vs. 'Best' 8 bands
 ![Image](bestbanddata.jpg)
