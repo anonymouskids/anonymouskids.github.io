@@ -1,12 +1,14 @@
-[XXXX](#jump)
+[Inital Estimation (#R1)](#init)</br>
+[PCA vs. 'Best' Bands (#R2)](#lr)</br>
+[Experiments & Contribution(#R3)](#mit)
 
-## Initial Estimation (#R1)
+## <span id="init">Initial Estimation (#R1)</span>
 ![Image](https://farm5.staticflickr.com/4721/26045732858_1133701b2c_b.jpg)
 > Fig. 1: The bias distribution on MIT intrinsic dataset and our MIID dataset.
 
 From the figure above, we can see that the biases between the reflectance image and the input image follow a heavy-tailed distribution with zero mean, which validate our assumption that the reflectance image has small deviation from the input image.
 
-## PCA vs. 'Best' 8 bands (#R2)
+## <span id="lr">PCA vs. 'Best' 8 bands (#R2)</span>
 ![Image](https://farm5.staticflickr.com/4701/26047528898_29a16acf4f_h.jpg)
 > Fig. 2 The comparison between PCA and selected 8 bands. We use LMSE to evaluate the performance.
 
@@ -34,5 +36,8 @@ From the figure above, we can see that the biases between the reflectance image 
 ### Objective evaluation
 ![Image](https://farm5.staticflickr.com/4611/28140381309_f9179756b9_b.jpg)
 > Fig. 8: the performance of our algorithm on SIID dataset. *SIID dataset and Error rate is proposed by Chen et al. _Intrinsic decomposition from a single spectral image._ Applied optics 56.20 (2017): 5676-5684.
+
+## <span id='contri'>Contribution</span>
+In sum, our LRIID algorithm outperforms state-of-the-art algorithms on MIID problem. And our MIID dataset with the ground truth would play an important role in MIID problems.
 
 <!--### Subjective evaluation>
