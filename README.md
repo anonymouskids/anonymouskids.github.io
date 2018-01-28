@@ -59,7 +59,7 @@ Noted that in the group 'cap' our results appear to be worse, but our algorithm 
 
 ### <span id="siid">On SIID dataset</span>
 ![Image](https://farm5.staticflickr.com/4740/39043645675_2937afc880_b.jpg)
-> Fig. 8: the performance of our algorithm on SIID dataset, where SR denotes Spectra Retinex*.
+> Fig. 8: the performance of our algorithm on SIID dataset*, where SR denotes Spectra Retinex*.
 
 > *SIID dataset, 'spectral retinex' and 'error metric score' are proposed by Chen et al., _Intrinsic decomposition from a single spectral image._, Applied optics 56.20 (2017): 5676-5684.
 
