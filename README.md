@@ -58,12 +58,12 @@ SIID introduced super-pixel based method to handle MIID problem in order to redu
 Noted that in the group 'cap' our results appear to be worse, but our algorithm maintains high frequency information on shading image.
 
 ### <span id="siid">On SIID dataset</span>
-![Image](https://farm5.staticflickr.com/4611/28140381309_f9179756b9_b.jpg)
-> Fig. 8: the performance of our algorithm on SIID dataset. 
+![Image](https://farm5.staticflickr.com/4740/39043645675_2937afc880_b.jpg)
+> Fig. 8: the performance of our algorithm on SIID dataset, where SR denotes Spectra Retinex*.
 
-> *SIID dataset and Error rate are proposed by Chen et al. in _Intrinsic decomposition from a single spectral image._ Applied optics 56.20 (2017): 5676-5684.
+> *SIID dataset, 'spectral retinex' and 'error metric score' are proposed by Chen et al., _Intrinsic decomposition from a single spectral image._, Applied optics 56.20 (2017): 5676-5684.
 
-Also, we do another experiment on SIID dataset. Using the error evaluation term defined in Chen et al.'s paper, we achieve better results quantitatively.
+Also, we do another experiment on SIID dataset and display our result in Fig. 8. We achieve better results than SIID and SR.
 
 ## <span id='contri'>Contributions (#R3)</span>
 In sum, our LRIID algorithm outperforms state-of-the-art algorithms on various kinds of databases. And the MIID dataset with the ground truth that we provide would play an important role in following MIID researches.
