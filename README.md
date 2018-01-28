@@ -51,7 +51,7 @@ In Fig. 6, we show LSME performance of our algorithm. Our algorithm outperform S
 
 #### Subjective evaluation
 ![img](https://farm5.staticflickr.com/4623/39041994725_0d6ea3b36c_k.jpg)
-> Fig. 7: some visual results of our algorithm and SIID on newly captured dataset (First row: reflectance; Second row: shading). Captured by two different spectral imagers, images are slightly different in color because of different white balance settings.
+> Fig. 7: some visual results of our algorithm and SIID on newly captured dataset (first row: reflectance; second row: shading). Captured by two different spectral imagers, images are slightly different in color because of different white balance settings.
 
 SIID introduced super-pixel based method to handle MIID problem in order to reduce the complexity of multispectral information. Their results would cause the mosaic effect, in other words, the loss of details. In Fig. 7, we demonstrate that our algorithm can better maintain the detailed information. And our shadings tend to be uniform and reflectances are more 'flat'.
 
